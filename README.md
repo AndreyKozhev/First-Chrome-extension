@@ -36,6 +36,7 @@
         <script src="popup.js"></script>
     </head>
     <body>
+        <!-- Заголовок -->
         <h1>My first extension</h1>
     </body>
 </html>
